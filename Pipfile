@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow-gpu = "==1.15.0"
+matplotlib = "*"
+scipy = "*"
+keras = "*"
+pandas = "*"
+scikit-learn = "*"
+spyder = "==3.3.6"
+
+[requires]
+python_version = "3.7"
