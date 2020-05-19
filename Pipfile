@@ -13,6 +13,8 @@ keras = "*"
 pandas = "*"
 scikit-learn = "*"
 spyder = "==3.3.6"
+xlrd = "*"
+pyprind = "*"
 
 [requires]
 python_version = "3.7"
