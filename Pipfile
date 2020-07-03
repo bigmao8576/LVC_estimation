@@ -6,7 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-tensorflow-gpu = "==1.15.0"
 matplotlib = "*"
 scipy = "*"
 keras = "*"
@@ -15,6 +14,10 @@ scikit-learn = "*"
 spyder = "==3.3.6"
 xlrd = "*"
 pyprind = "*"
+pydot = "*"
+graphviz = "*"
+tensorflow-gpu = "==2.0.0"
+scikit-image = "*"
 
 [requires]
 python_version = "3.7"
