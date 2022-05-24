@@ -16,7 +16,7 @@ xlrd = "*"
 pyprind = "*"
 pydot = "*"
 graphviz = "*"
-tensorflow-gpu = "==2.0.0"
+tensorflow-gpu = "==2.6.4"
 scikit-image = "*"
 
 [requires]
